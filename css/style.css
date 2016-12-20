@@ -1,7 +1,21 @@
-h1 {
-  font-size: 60px;
+body {
+  font-family: 'Josefin Sans', sans-serif;
+  background-color: #F2FFFC;
 }
 
-h2 {
-  font-size: 40px;
+main h1 {
+  font-size: 50px;
+  background-color: #851944;
+  color: #ECECEC;
+  text-align: center;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+main h2 {
+  font-size: 30px;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+p {
+  text-align: justify;
 }
